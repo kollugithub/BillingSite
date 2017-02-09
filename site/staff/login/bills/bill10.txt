@@ -1,0 +1,7 @@
+bill id: bill10
+customer id : nnishu.jjain@gmail.com
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-26 00:33:01
+Product ID	name	quantity	total
+8	ball		1	30
+7	bat		1	250

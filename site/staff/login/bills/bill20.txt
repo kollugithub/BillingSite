@@ -1,0 +1,9 @@
+bill id: bill20
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-26 21:20:45
+Product ID	name	quantity	total
+3	chips		10	200
+6	cold drink		5	170
+
+Total : 370
+Cash : 370

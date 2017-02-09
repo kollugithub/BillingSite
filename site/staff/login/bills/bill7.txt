@@ -1,0 +1,11 @@
+bill id: bill7
+customer id : gendaghonchu@gmail.com
+billed by staff id : parthz.us@gmail.com
+on date : 2015-10-26 00:11:36
+Product ID	name	quantity	total
+4	pencil		10	30
+5	ice cream		20	500
+
+Total : 530
+Wallet : 30
+Cash : 500

@@ -1,0 +1,11 @@
+bill id: bill21
+customer id : nnishu.jjain@gmail.com
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-26 21:21:56
+Product ID	name	quantity	total
+3	chips		10	200
+5	ice cream		10	250
+
+Total : 450
+Wallet : 50
+Cash : 400

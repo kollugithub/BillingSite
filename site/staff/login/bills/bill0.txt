@@ -1,0 +1,10 @@
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-25 20:36:01
+Product ID	name	quantity	total
+1	shampoo		1	1.5
+2	cell		1	28.25
+3	chips		2	40
+4	pencil		3	9
+
+Total : 79
+Cash : 79

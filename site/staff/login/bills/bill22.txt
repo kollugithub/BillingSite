@@ -1,0 +1,9 @@
+bill id: bill22
+billed by staff id : parthz.us@gmail.com
+on date : 2015-11-04 18:28:19
+Product ID	name	quantity	total
+2	cell		3	84.75
+4	pencil		88	264
+
+Total : 349
+Cash : 349

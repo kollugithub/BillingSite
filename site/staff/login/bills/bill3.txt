@@ -1,0 +1,11 @@
+bill id: bill3
+customer id : nnishu.jjain@gmail.com
+billed by staff id : parthz.us@gmail.com
+on date : 2015-10-25 23:51:15
+Product ID	name	quantity	total
+3	chips		5	100
+4	pencil		10	30
+
+Total : 130
+Wallet : 0
+Cash : 130

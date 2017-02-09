@@ -1,0 +1,8 @@
+bill id: bill9
+billed by staff id : parthz.us@gmail.com
+on date : 2015-10-26 00:20:36
+Product ID	name	quantity	total
+4	pencil		5	15
+
+Total : 15
+Cash : 15

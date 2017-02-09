@@ -1,0 +1,8 @@
+bill id: bill8
+billed by staff id : parthz.us@gmail.com
+on date : 2015-10-26 00:18:13
+Product ID	name	quantity	total
+2	cell		1	28.25
+
+Total : 29
+Cash : 29

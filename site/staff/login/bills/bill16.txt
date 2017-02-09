@@ -1,0 +1,10 @@
+bill id: bill16
+customer id : nnishu.jjain@gmail.com
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-26 00:54:09
+Product ID	name	quantity	total
+3	chips		10	200
+
+Total : 200
+Wallet : 120
+Cash : 80

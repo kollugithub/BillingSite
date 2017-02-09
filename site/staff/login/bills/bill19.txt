@@ -1,0 +1,8 @@
+bill id: bill19
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-26 01:07:21
+Product ID	name	quantity	total
+4	pencil		2	6
+
+Total : 6
+Cash : 6

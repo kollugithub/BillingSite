@@ -1,0 +1,8 @@
+bill id: bill18
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-26 01:02:32
+Product ID	name	quantity	total
+1	shampoo		12	18
+
+Total : 18
+Cash : 18

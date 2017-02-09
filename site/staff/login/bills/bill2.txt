@@ -1,0 +1,10 @@
+bill id: bill2
+customer id : parthz.us@gmail.com
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-25 20:45:08
+Product ID	name	quantity	total
+3	chips		20	400
+
+Total : 400
+Wallet : 200
+Cash : 200

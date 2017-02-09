@@ -1,0 +1,8 @@
+bill id: bill5
+billed by staff id : parthz.us@gmail.com
+on date : 2015-10-25 23:57:41
+Product ID	name	quantity	total
+3	chips		2	40
+
+Total : 40
+Cash : 40

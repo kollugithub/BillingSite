@@ -1,0 +1,9 @@
+customer id : parthz.us@gmail.com
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-25 20:41:07
+Product ID	name	quantity	total
+1	shampoo		2	3
+
+Total:3
+wallet:0
+Cash:3

@@ -1,0 +1,10 @@
+bill id: bill12
+customer id : nnishu.jjain@gmail.com
+billed by staff id : gendaghonchu@gmail.com
+on date : 2015-10-26 00:38:27
+Product ID	name	quantity	total
+1	shampoo		10	15
+
+Total : 15
+Wallet : 0
+Cash : 15
